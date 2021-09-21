@@ -1,0 +1,15 @@
+//variables
+
+h1{
+	font-style:  cursive;
+	font-family: Grey+Qo;
+	color: black;
+	font-weight: bold;
+	font-size: 1em;
+	text-align: justify;
+	text-decoration: none;
+	margin: 10px;
+	padding: 2em;
+
+
+}
